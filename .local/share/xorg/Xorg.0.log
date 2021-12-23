@@ -486,3 +486,35 @@ X Protocol Version 11, Revision 0
 [    18.884] (II) modeset(0): Printing DDC gathered Modelines:
 [    18.884] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
 [    18.885] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20412.742] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20412.742] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20412.742] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20412.742] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20412.821] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20412.821] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20412.821] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20412.821] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20417.718] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20417.719] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20417.719] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20417.719] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20417.782] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20417.782] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20417.782] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20417.782] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20420.837] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20420.837] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20420.837] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20420.837] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20420.893] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20420.893] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20420.893] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20420.893] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20425.116] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20425.116] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20425.116] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20425.116] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
+[ 20425.169] (II) modeset(0): EDID vendor "LGD", prod id 1674
+[ 20425.169] (II) modeset(0): Printing DDC gathered Modelines:
+[ 20425.169] (II) modeset(0): Modeline "1920x1080"x0.0  138.70  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (66.7 kHz eP)
+[ 20425.169] (II) modeset(0): Modeline "1920x1080"x0.0  110.96  1920 1968 2000 2080  1080 1083 1088 1111 +hsync -vsync (53.3 kHz e)
