@@ -85,3 +85,85 @@ clear
 sudo apt install jenkins
 clear
 git config
+git config --global user.name "your_username"
+git config --global harikrishna "hari99a"
+git config --global harikrishna99a@gmail.com "harikrishna99a@gmail.com.com"
+git config --blobal user.name''hari99a''
+git config --global user.name''hari99a''
+git config --global user.email''harikrishna99a@gmail.com''
+git config --global user.name''hari99a''
+git config --global user.email''harikrishna99a@gmail.com''
+git config --list
+clear
+git config --list
+git config --global user.name''hari99a''
+git config --global user.email''harikrishna99a@gmail.com''
+git config --list
+clear
+git config --global user.name''hari99a''
+git config --global user.email''harikrishna99a@gmail.com''
+
+git config --global user.name "hari99a"
+git config --global user.email "harikrikshna99a@gmail.com"
+git config --list
+clear
+git -add
+git add
+git init
+clear
+git init
+ls
+touch
+touch harikrishna
+git -add
+git add
+git add .
+git commit -m ''harikrishna''
+clear
+git commit -m"harikrishna"
+git commit -m "first file"
+ls
+clear
+touch h1 h2
+git add .
+git commit -m "first"
+git remote add origin https://github.com/hari99a/new-project.git
+git branch -M main
+git push -u origin main
+clear
+touch h3 h4 
+git add
+ls
+clear
+git add .
+git commit -m "hari"
+git remote add origin https://github.com/hari99a/hari99a.git
+git branch -M main
+git push -u origin main
+clear 
+ls
+touch 9 9
+git add .
+git commit -m "99 file"
+git remote add origin https://github.com/hari99a/hari99a.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/hari99a/hari99a.git
+git remote rm origin
+git remote add origin git@github.com:username/myapp.git
+git add .
+git commit -m "first"
+git remote add origin https://github.com/hari99a/hari99a.git
+clear
+touch h4 h5 
+git add .
+git commit -m "rju"
+git remote add origin https://github.com/hari99a/resource.git
+git branch -M main
+git push -u origin main
+clear
+ls
+git add .
+git commit -m ''touch"
+
+clear
