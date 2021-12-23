@@ -6,17 +6,17 @@
     <application id="libreoffice-startcenter.desktop" open-window-count="0" score="0" last-seen="1639650623"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="293" last-seen="1640239717"/>
     <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1639645145"/>
-    <application id="google-chrome.desktop" open-window-count="1" score="4046" last-seen="1640258638"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="4082" last-seen="1640259684"/>
     <application id="chromium-browser.desktop" open-window-count="0" score="19" last-seen="1640234244"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="0" last-seen="1639646205"/>
     <application id="rhythmbox.desktop" open-window-count="1" score="1" last-seen="1640239772"/>
     <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
     <application id="org.gnome.PowerStats.desktop" open-window-count="0" score="3" last-seen="1639657744"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1388" last-seen="1640258883"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1457" last-seen="1640259572"/>
     <application id="gnome-initial-setup.desktop" open-window-count="0" score="9" last-seen="1639640917"/>
     <application id="org.gnome.Totem.desktop" open-window-count="0" score="5" last-seen="1639652232"/>
     <application id="org.gnome.Software.desktop" open-window-count="0" score="57" last-seen="1639657992"/>
-    <application id="libreoffice-writer.desktop" open-window-count="1" score="61" last-seen="1640258883"/>
+    <application id="libreoffice-writer.desktop" open-window-count="1" score="64" last-seen="1640259457"/>
     <application id="thunderbird.desktop" open-window-count="0" score="19" last-seen="1639652377"/>
   </context>
 </application-state>
