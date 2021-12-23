@@ -1,0 +1,28 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=charset)(8B=boxFlags)(8C=hierDelim)(8D=onlineName)(8E=aclFlags)
+  (8F=serverTotal)(90=serverUnseen)(91=serverRecent)(92=indexingPriority)
+  (93=nextUID)(94=lastSyncTimeInSec)(95=folderName)
+  (80=ns:msg:db:row:scope:folders:all)(81=ns:msg:db:table:kind:folders)
+  (82=key)(83=flags)(84=totalMsgs)(85=totalUnreadMsgs)
+  (86=pendingUnreadMsgs)(87=pendingMsgs)(88=expungedBytes)(89=folderSize)>
+
+<(80
+    =/home/harikrishnaanipireddy/.thunderbird/wgdau33x.default/ImapMail/imap.g\
+mail.com/INBOX.msf)(87=8003014)(82=0)(83=ffffffffffffffff)(84=ISO-8859-1)
+  (85=5e)(86=INBOX)(88
+    =/home/harikrishnaanipireddy/.thunderbird/wgdau33x.default/Mail/pop.gmail.\
+com)(89=1c)(8A=ffffffff)(8B=)(8C
+    =/home/harikrishnaanipireddy/.thunderbird/wgdau33x.default/Mail/pop.gmail.\
+com/Inbox.msf)(8D=1004)(8E=Inbox)(8F
+    =/home/harikrishnaanipireddy/.thunderbird/wgdau33x.default/Mail/pop.gmail.\
+com/Trash.msf)(90=104)(91=Deleted)>
+{1:^80 {(k^81:c)(s=9)} 
+  [1(^82^80)(^83^87)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B=0)(^8C=5e)(^8D^86)(^8E=0)(^8F=0)(^90=0)(^91=0)(^94=0)]
+  [2(^82^88)(^83=1c)(^84^8A)(^85^8A)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^95=)]
+  [3(^82^8C)(^83^8D)(^84^8A)(^85^8A)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^95^8E)]
+  [4(^82^8F)(^83^90)(^84^8A)(^85^8A)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^95^91)]}

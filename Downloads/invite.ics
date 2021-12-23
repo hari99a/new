@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 10.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:India Time
+BEGIN:STANDARD
+DTSTART:20190101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:Standard Time
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="anipireddy harikrishna";ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:harikrishna99a@gmail.com
+ORGANIZER;CN="XP Onboarding":MAILTO:xp.onboarding@tcs.com
+DTSTART;TZID="India Time":20211222T143000
+DTEND;TZID="India Time":20211222T173000
+LOCATION:https://tcsxp.webex.com/tcsxp/onstage/g.php?MTID=e82a4b74d1ac1ea6163b8de20fb3e5e00 
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:WEBEX-MEETING CENTER-6.013779182-1492711892
+DTSTAMP:20211222T061718Z
+DESCRIPTION:Hello anipireddy harikrishna,\n\nYour registration was approved for the following Webex event.\n\nTopic: First Connect - 22nd December 2021 - 2:30PM (Batch Joining on 30th December 2021)\nHost: XP Onboarding\nWednesday, December 22, 2021 2:30 pm, India Time (Mumbai, GMT+05:30)\n\nEvent number: 2511 377 6726\nRegistration ID: 194475\n\nEvent password: Tcs@123\n\n-------------------------------------------------------\nTo join the online event\n-------------------------------------------------------\nGo to https://tcsxp.webex.com/tcsxp/onstage/g.php?MTID=e83c22b16ef7494b8280bb9fe7c3a0f7b\n\nTo view in other time zones or languages, please click the link:\n\nhttps://tcsxp.webex.com/tcsxp/onstage/g.php?MTID=ed74c09305dd165eb6c20c34f613abe00\n\n\n-------------------------------------------------------\nFor assistance\n-------------------------------------------------------\nYou can contact XP Onboarding at:\nxp.onboarding@tcs.com\n\nCan't join the event?\nhttps://collaborationhelp.cisco.com/article/kwmj5eb\n\nTo join the event more quickly, you can set up Webex Events before the event starts. Go to: https://tcsxp.webex.com/tcsxp/ecsetup.php?frommail=1\n\nThe playback of UCF (Universal Communications Format) rich media files requires appropriate players. To view this type of rich media files in the meeting, please check whether you have the players installed on your computer by going to https://tcsxp.webex.com/tcsxp/onstage/systemdiagnosis.php\n\n\nhttps://www.webex.com\n\nIMPORTANT NOTICE: This Webex service includes a feature that allows audio and any documents and other materials exchanged or viewed during the session to be recorded. By joining this session, you automatically consent to such recordings. If you do not consent to the recording, discuss your concerns with the meeting host prior to the start of the recording or do not join the session. Please note that any such recordings may be subject to discovery in the event of litigation. \n
+SUMMARY:First Connect - 22nd December 2021 - 2:30PM (Batch Joining on 30th December 2021)
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

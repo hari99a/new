@@ -1,0 +1,134 @@
+{
+   "checksum": "1bdd4537ce2a2057f90a47e55dcd3382",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13253289130797022",
+            "id": "14",
+            "name": "Gmail",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13253289130814364",
+            "id": "15",
+            "name": "YouTube",
+            "sync_transaction_version": "6",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13230376420419134",
+            "id": "16",
+            "name": "Maps",
+            "sync_transaction_version": "7",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13240637101156934",
+            "id": "17",
+            "name": "From fueling Indian kitchens to powering Jumbo jets",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ongcindia.com/wps/wcm/connect/a1e24ac4-7561-40bb-8dac-ecb1ea6beed5/talent_banner.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a1e24ac4-7561-40bb-8dac-ecb1ea6beed5-neqCC6e"
+         } ],
+         "date_added": "13284624885697074",
+         "date_modified": "13253289130814364",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13284624885697107",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "7",
+      "synced": {
+         "children": [ {
+            "date_added": "13191080307544743",
+            "id": "5",
+            "name": "TMI",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.tmievan.com/walk-in-events.html"
+         }, {
+            "date_added": "13191471626433361",
+            "id": "6",
+            "name": "[Solution Manual] Mechanics of Material, 7th Edition - James M. Gere y Barry J. Goodno | Rodrigo Vela - Academia.edu",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.academia.edu/32224147/_Solution_Manual_Mechanics_of_Material_7th_Edition_-_James_M._Gere_y_Barry_J._Goodno"
+         }, {
+            "date_added": "13209147496859905",
+            "id": "7",
+            "name": "Civil Engineering Drawing and Estimates Questions and Answers - Sanfoundry",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.sanfoundry.com/1000-civil-engineering-drawing-questions-answers/"
+         }, {
+            "date_added": "13221583901385980",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13221583901389172"
+            },
+            "name": "SSC JE /AE Coaching Scholarship Scheme",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.sscje.com/studymaterial/"
+         }, {
+            "date_added": "13240814868208809",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13240814873562479"
+            },
+            "name": "OTP Verification",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.ncs.gov.in/_layouts/15/ncsp/user-management/VerifyOTP.aspx?ST=NGXkGp7mNUw=&U=uqdtCIGeaMVbHjjY8CzOEwNi73uPRKyslhvOWErxqp4%3D"
+         }, {
+            "date_added": "13240946021806722",
+            "id": "10",
+            "name": "Sirisha telugu - XVIDEOS.COM",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.xvideos2.com/video35004625/sirisha_telugu"
+         }, {
+            "date_added": "13240977959554990",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13240977959558605"
+            },
+            "name": "Diploma Jobs 2020 (1713 Govt Vacancies Opening)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.indgovtjobs.in/2013/09/government-jobs-for-diploma-holders.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed:+FreeEasyOnlineJobs+(Indian+Government+Jobs+-+www.IndGovtJobs.in)&m=1"
+         }, {
+            "date_added": "13241269578187597",
+            "id": "12",
+            "name": "New tab",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13242188374266933",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13242188382018990"
+            },
+            "name": "Autodesk Student Community | Free Software & Resources for Education",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.autodesk.com/education/home"
+         } ],
+         "date_added": "13284624885697111",
+         "date_modified": "13242188374266933",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

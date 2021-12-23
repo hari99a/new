@@ -1,0 +1,12 @@
+calgon
+clarigesters
+fluorosis
+harikrishna
+hexamete
+laumonitite
+laumontite
+mechanised
+natrolite
+opernueties
+sulphite
+checksum_v1 = 2141825eff7b1b310e409ed2ec7534a3

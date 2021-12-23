@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/harikrishnaanipireddy/Downloads/git-manpages-2.7.4.tar.gz" added="2021-12-16T09:02:49Z" modified="2021-12-16T09:36:23Z" visited="2021-12-16T09:02:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-12-16T09:36:23Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harikrishnaanipireddy/.cache/.fr-HCdFU0/man1/git-cat-file.1" added="2021-12-16T09:16:42Z" modified="2021-12-16T09:16:42Z" visited="2021-12-16T09:16:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-16T09:16:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harikrishnaanipireddy/Downloads/jenkins.io%20(1).key" added="2021-12-16T10:30:08Z" modified="2021-12-16T10:30:20Z" visited="2021-12-16T10:30:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-iwork-keynote-sffkey"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2021-12-16T10:30:20Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harikrishnaanipireddy/Downloads/DT20206644588_JL.pdf" added="2021-12-21T07:42:45Z" modified="2021-12-21T08:30:19Z" visited="2021-12-21T07:42:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2021-12-21T08:30:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harikrishnaanipireddy/Desktop/harikrishna/Untitled%202" added="2021-12-23T09:55:02Z" modified="2021-12-23T09:55:02Z" visited="2021-12-23T09:55:03.195068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2021-12-23T09:55:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harikrishnaanipireddy/Desktop/harikrishna/Untitled%202.odt" added="2021-12-23T09:55:03Z" modified="2021-12-23T09:55:03Z" visited="2021-12-23T09:55:03.195088Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2021-12-23T09:55:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,6 @@
+2021/12/22-11:04:45.695 9f6 Reusing MANIFEST /home/harikrishnaanipireddy/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/12/22-11:04:45.696 9f6 Recovering log #3
+2021/12/22-11:04:45.696 9f6 Reusing old log /home/harikrishnaanipireddy/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2021/12/22-11:45:05.788 1021 Level-0 table #5: started
+2021/12/22-11:45:05.798 1021 Level-0 table #5: 159828 bytes OK
+2021/12/22-11:45:05.800 1021 Delete type=0 #3
