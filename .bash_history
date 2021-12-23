@@ -167,3 +167,39 @@ git add .
 git commit -m ''touch"
 
 clear
+ls
+git add .
+git commit -m "raj"
+git remote add origin https://github.com/hari99a/resource.git
+git branch -M main
+git push -u origin main
+clear
+git add .
+git commit -m  "ram"
+git remote add origin https://github.com/hari99a/resource.git
+git branch -M main
+git push -u origin main
+git remote rm origin
+git branch -M main
+git push -u origin main
+clear
+git init
+ls
+cd harikrishna
+mkdir hari
+ls
+cd hari
+touch hari1
+git add .
+git commit -m "practice"
+git remote add origin https://github.com/hari99a/new.git
+git branch -M main
+git push -u origin main
+git add .
+git commit -m "practices"
+cl
+clear
+git add .
+git commit -m "practices"
+git init
+mkdir hari
